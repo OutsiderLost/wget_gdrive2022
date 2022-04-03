@@ -10,5 +10,5 @@ wget_gdrive2022 F1L3_ID filename
 
 (each file has a separate ID) !!!
 
-(this is I'm not making this, just publishing it) !
+(I'm not making this, just publishing it) !
 
